@@ -24,7 +24,7 @@ var usabl = require("usabl-nodejs");
 var options = { applicationId: "<YOUR_TOKEN>" };
 
 // 3. Initialize the middleware object with options
-var usablMiddleware = moesif(options);
+var usablMiddleware = usabl(options);
 
 // 4b. Use the Usabl middleware to start showing surveys
 app.use(usablMiddleware);
