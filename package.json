@@ -1,0 +1,25 @@
+{
+  "name": "usabl-node",
+  "version": "1.0.0",
+  "description": "A simple server-side API for usabl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usabl-dev/usabl-node.git"
+  },
+  "keywords": [
+    "usabl",
+    "analytics",
+    "terminal surveys",
+    "api survey generator"
+  ],
+  "author": "usabl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usabl-dev/usabl-node/issues"
+  },
+  "homepage": "https://github.com/Usabl-dev/usabl-node#readme"
+}
